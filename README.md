@@ -1,0 +1,1 @@
+# waste-segregation-by-using-cv
