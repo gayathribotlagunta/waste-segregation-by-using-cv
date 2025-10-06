@@ -1,0 +1,5 @@
+train: path/to/images/train
+val: path/to/images/val
+
+nc: 3
+names: ['biodegradable', 'non_biodegradable', 'recyclable']

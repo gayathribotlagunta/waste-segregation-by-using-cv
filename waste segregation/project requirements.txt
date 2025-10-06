@@ -1,0 +1,14 @@
+# Core Python dependencies
+numpy
+opencv-python
+matplotlib
+pillow
+
+# Deep learning and YOLOv12
+torch>=2.0
+torchvision
+ultralytics>=8.0.200  # for YOLOv12 support (or latest)
+supervision  # for annotating detections
+
+# Optional: for GUI/testing/debugging
+tk

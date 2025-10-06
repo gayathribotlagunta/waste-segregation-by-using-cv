@@ -1,0 +1,15 @@
+waste-segregation/
+│
+├── dataset/
+│   ├── biodegradable/
+│   ├── non_biodegradable/
+│   └── recyclable/
+│
+├── model/
+│   └── waste_classifier.h5  ← Trained model will be saved here
+│
+├── main.py                  ← Main application
+├── train.py                 ← Model training script
+├── classify.py              ← Classify a new image
+├── requirements.txt
+└── README.md
